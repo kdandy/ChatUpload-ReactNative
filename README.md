@@ -86,8 +86,8 @@ Aplikasi chat mobile untuk Universitas Diponegoro yang dibangun menggunakan Reac
 
 ```bash
 # Clone repository
-git clone https://github.com/kdandy/chat-mobile.git
-cd chat-mobile
+git clone https://github.com/kdandy/ChatUpload-ReactNative.git
+cd ChatUpload-ReactNative
 
 # Install dependencies
 npm install
